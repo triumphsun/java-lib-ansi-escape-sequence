@@ -3,7 +3,6 @@ package com.suntri.utils;
 /**
  * Author: Chia-Yang, Sun
  * Email: triumph.sun@gmail.com
- * Date: 2020/9/17
  */
 
 public class Ansi {
